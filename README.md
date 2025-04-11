@@ -1,7 +1,7 @@
 # Neuron-Educator
 Educate your neuron network
 1) Bu program yildiz teknik universitesi EHM5108-Noron-Aglari dersinin odevinin ihtiyacini karsilayacak sekilde tasarlanmistir.
-	ders hocasi : tülay yildirim
+	ders hocasi : Prof. Dr. Tülay YILDIRIM
 2) Kullanmak icin once python3 kurulmalidir.
 	Windows icin indirme linki:
 		https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe
