@@ -1,0 +1,15 @@
+{
+    "girisler": {
+        "x-degerleri": [ [1,-2],[0,1], [2,3], [1,-1] ],
+        "d-degerleri": null
+    },
+    "ogrenme-kurallari-listesi" : "hebb,perception,delta,widrow-hoff",
+    "aktivasyon-fonksiyonu-listesi": "bipolar-surekli,bipolar-binary",
+    "ogrenme-kurali": "hebb",
+    "aktivasyon-fonksiyonu": "bipolar-binary",
+    "ogrenme-sabiti": 1.0,
+    "lambda": 1.0,
+    "egitme-adimi": 4,
+    "ilk-agirlik-vektoru": [ [1], [-1]],
+    "yuvarlama-ondalik-sayisi" : 3
+}
